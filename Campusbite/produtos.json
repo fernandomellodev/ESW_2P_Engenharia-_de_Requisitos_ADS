@@ -1,0 +1,8 @@
+[
+    {
+        "nome": "pepsi",
+        "categoria": "bebidas",
+        "preco": 5.0,
+        "estoque": 10
+    }
+]
